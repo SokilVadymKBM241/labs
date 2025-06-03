@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XKE1TYsOulPpOmeO3Xme9pevSz7/hhs0PilzM8atTgQ=",
+  "Source": "MigrationCacheDemo.Api",
+  "BasePath": "_content/MigrationCacheDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

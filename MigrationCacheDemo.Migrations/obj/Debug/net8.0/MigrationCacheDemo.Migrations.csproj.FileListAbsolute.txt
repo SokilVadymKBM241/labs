@@ -1,0 +1,12 @@
+E:\labskbm241\MigrationCacheDemo.Migrations\bin\Debug\net8.0\MigrationCacheDemo.Migrations.deps.json
+E:\labskbm241\MigrationCacheDemo.Migrations\bin\Debug\net8.0\MigrationCacheDemo.Migrations.dll
+E:\labskbm241\MigrationCacheDemo.Migrations\bin\Debug\net8.0\MigrationCacheDemo.Migrations.pdb
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\MigrationCacheDemo.Migrations.csproj.AssemblyReference.cache
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\MigrationCacheDemo.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\MigrationCacheDemo.Migrations.AssemblyInfoInputs.cache
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\MigrationCacheDemo.Migrations.AssemblyInfo.cs
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\MigrationCacheDemo.Migrations.csproj.CoreCompileInputs.cache
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\MigrationCacheDemo.Migrations.dll
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\refint\MigrationCacheDemo.Migrations.dll
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\MigrationCacheDemo.Migrations.pdb
+E:\labskbm241\MigrationCacheDemo.Migrations\obj\Debug\net8.0\ref\MigrationCacheDemo.Migrations.dll

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\labskbm241\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|e:\\labskbm241\\migrationcachedemo.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|solutionrelative:migrationcachedemo.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|e:\\labskbm241\\migrationcachedemo.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|solutionrelative:migrationcachedemo.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|e:\\labskbm241\\migrationcachedemo.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|solutionrelative:migrationcachedemo.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|e:\\labskbm241\\migrationcachedemo.api\\controllers\\migrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|solutionrelative:migrationcachedemo.api\\controllers\\migrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|e:\\labskbm241\\migrationcachedemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|solutionrelative:migrationcachedemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2B4E-9C93-45CD-9BF1-0C47DB3FFF4E}|MigrationCacheDemo.Migrations\\MigrationCacheDemo.Migrations.csproj|e:\\labskbm241\\migrationcachedemo.migrations\\migrations\\002_addproductdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2B4E-9C93-45CD-9BF1-0C47DB3FFF4E}|MigrationCacheDemo.Migrations\\MigrationCacheDemo.Migrations.csproj|solutionrelative:migrationcachedemo.migrations\\migrations\\002_addproductdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2B4E-9C93-45CD-9BF1-0C47DB3FFF4E}|MigrationCacheDemo.Migrations\\MigrationCacheDemo.Migrations.csproj|e:\\labskbm241\\migrationcachedemo.migrations\\migrations\\001_createproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2B4E-9C93-45CD-9BF1-0C47DB3FFF4E}|MigrationCacheDemo.Migrations\\MigrationCacheDemo.Migrations.csproj|solutionrelative:migrationcachedemo.migrations\\migrations\\001_createproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|e:\\labskbm241\\migrationcachedemo.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|solutionrelative:migrationcachedemo.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|e:\\labskbm241\\migrationcachedemo.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|solutionrelative:migrationcachedemo.api\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|e:\\labskbm241\\migrationcachedemo.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D626BB0D-5EE5-4D1B-A8CC-3821C2DCD6C6}|MigrationCacheDemo.Api\\MigrationCacheDemo.Api.csproj|solutionrelative:migrationcachedemo.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Api\\Program.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Api\\Program.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Api\\Program.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAADwv3IAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:23:13.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Api\\Models\\Product.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Api\\Models\\Product.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Api\\Models\\Product.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:19:54.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "002_AddProductDescription.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Migrations\\Migrations\\002_AddProductDescription.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Migrations\\Migrations\\002_AddProductDescription.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Migrations\\Migrations\\002_AddProductDescription.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Migrations\\Migrations\\002_AddProductDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:21:24.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:28:09.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MigrationsController.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Api\\Controllers\\MigrationsController.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Api\\Controllers\\MigrationsController.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Api\\Controllers\\MigrationsController.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Api\\Controllers\\MigrationsController.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAAwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:28:46.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Api\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Api\\Repositories\\IProductRepository.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Api\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Api\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:21:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Api\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Api\\Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Api\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Api\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:22:01.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "001_CreateProductTable.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Migrations\\Migrations\\001_CreateProductTable.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Migrations\\Migrations\\001_CreateProductTable.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Migrations\\Migrations\\001_CreateProductTable.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Migrations\\Migrations\\001_CreateProductTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:20:58.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Api\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Api\\Services\\IProductService.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Api\\Services\\IProductService.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Api\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:22:45.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\labskbm241\\MigrationCacheDemo.Api\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MigrationCacheDemo.Api\\Services\\ProductService.cs",
+              "ToolTip": "E:\\labskbm241\\MigrationCacheDemo.Api\\Services\\ProductService.cs",
+              "RelativeToolTip": "MigrationCacheDemo.Api\\Services\\ProductService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:22:57.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
