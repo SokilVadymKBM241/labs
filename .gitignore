@@ -1,0 +1,14 @@
+# Build results
+bin/
+obj/
+products.db
+*.db
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+logs/
+*.log

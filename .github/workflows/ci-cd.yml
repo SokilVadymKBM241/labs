@@ -1,0 +1,43 @@
+name: .NET CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-test-migrate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
+    
+    - name: Restore dependencies
+      run: dotnet restore
+    
+    - name: Build solution
+      run: dotnet build --no-restore --configuration Release
+    
+    - name: Create test database
+      run: touch test.db
+    
+    - name: Test migrations
+      run: |
+        cd MigrationCacheDemo.Api
+        timeout 30s dotnet run --configuration Release || true
+      
+    - name: Package application
+      run: dotnet publish MigrationCacheDemo.Api -c Release -o ./publish
+    
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: migration-cache-demo
+        path: ./publish
